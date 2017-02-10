@@ -24,4 +24,4 @@
 
 
 
-**Other information (e.g. stacktraces, related issues, suggestions how to fix)**
+**Other information (example: stacktraces, related issues, suggestions how to fix)**
